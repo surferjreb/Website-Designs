@@ -1,0 +1,16 @@
+.container {
+    margin:30px;
+}
+
+#inputPassword3 {
+    width: 40%;
+}
+
+#inputEmail3 {
+    width: 40%
+}
+
+.navbar-brand {
+   margin: 20px;
+   display: inline-block;
+}
